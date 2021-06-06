@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sherylgiovanni
+- 👀 I’m interested in UI/UX Design, Mobile App Development, and Japanese language.
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me: sherylgiovanni@gmail.com
