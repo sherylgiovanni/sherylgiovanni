@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sherylgiovanni
-- 👀 I’m interested in UI/UX Design, Mobile App Development, and Game Development
-- 📫 How to reach me: sherylgiovanni@gmail.com
+
